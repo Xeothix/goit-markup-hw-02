@@ -59,7 +59,7 @@ body {
     background-color: #2e2f42;
 }
 
-.h1-title {
+.h-one-section-title {
     color: #ffffff;
     font-size: 56px;
     line-height: 1.07;
@@ -86,7 +86,7 @@ body {
     background-color: #404bbf;
 }
 
-.h3-sections {
+.h-three-sections {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
@@ -94,7 +94,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.p-section2 {
+.p-sections {
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -105,11 +105,11 @@ body {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 0.02em;
     text-transform: capitalize;
+    letter-spacing: 0.02em;
 }
 
-.section3 {
+.section-three {
     background-color: #F4F4FD;
 }
 
