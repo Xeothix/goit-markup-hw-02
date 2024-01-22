@@ -24,3 +24,105 @@ body {
 .list {
     list-style: none;
 }
+.navigate {
+    color: #2e2f42;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.navigate:hover {
+    color: #404bbf;
+}
+.navigate:focus {
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal
+}
+
+.address-a {
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address-a:hover {
+    color: #404bbf;
+}
+
+.address-a:focus {
+    color: #404bbf;
+}
+
+.section-title {
+    background-color: #2e2f42;
+}
+
+.h1-title {
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.button-title {
+    color: #ffffff;
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+.button-title:hover {
+    background-color: #404bbf;
+}
+
+.button-title:focus {
+    background-color: #404bbf;
+}
+
+.h3-sections {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.p-section2 {
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.sections-title {
+    color: #2e2f42;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.section3 {
+    background-color: #F4F4FD;
+}
+
+.background-list-section3 {
+    background-color: #FFFFFFFF;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.p-footer {
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
