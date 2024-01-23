@@ -127,7 +127,7 @@ body {
 }
 
 .down-color {
-    color: #f4f4f4fd;
+    color: var(--light-color);
 }
 
 .p-footer {
