@@ -143,11 +143,11 @@ body {
 }
 
 .buttons-p:hover {
-    color: #F4F4FD;
+    color: #FFFFFFFF;
     background-color: #404BBF;
 }
 
 .buttons-p:focus {
-    color: #F4F4FD;
+    color: #FFFFFFFF;
     background-color: #404BBF;
 }
